@@ -3,7 +3,7 @@
 - [Exercism](https://exercism.org/tracks/elixir)
 - [Elixir School](https://elixirschool.com/en)
 
-Elixir and Erlang tend to have long-standing issues on Windows ([for example]((https://github.com/elixir-lsp/elixir-ls/issues/886))). It's recommended to use [WSL](https://learn.microsoft.com/en-us/windows/wsl/):
+Elixir and Erlang tend to have long-standing issues on Windows ([for example](https://github.com/elixir-lsp/elixir-ls/issues/886)). It's recommended to use [WSL](https://learn.microsoft.com/en-us/windows/wsl/):
 
 - Install WSL
 - Setup a Ubuntu environment
